@@ -1,0 +1,98 @@
+#top{
+	width: 100%;
+	height: 1.9rem;
+	background-color: #181818;
+	text-align: center;
+	padding-top: 1.03rem;
+	position: fixed;
+	font-size: 0.5rem;
+	
+}
+.top_text{
+	color: #fff;
+}
+.top_ph1{
+	width: 0.5rem;
+	height: 0.5rem;
+	float: left;
+	margin-right: 0.39rem;
+
+}
+#banner{
+	width: 100%;
+	height: 1rem;
+	float: left;
+	margin-top: 1.9rem;
+	border-bottom: 0.01rem solid #ccc;
+}
+.banner_top{
+	font-size: 0.35rem;
+	color: #ccc;
+	float: left;
+	margin: 0.2rem 0.35rem;
+}
+
+.banner_top.active{
+	color: #000;
+}
+
+#screen{
+	width: 100%;
+	height: 0.96rem;
+	margin: 0.21rem 0;
+	border-bottom: 0.01rem solid #ccc;
+	float: left
+}
+.screen_top{
+	width: 2.67rem;
+	height: 0.53rem;
+	font-size: 0.5rem;
+	color: #ccc;
+	text-align: center;
+	float: left;
+	border-right: 0.03rem solid #ccc;
+}
+.screen_top .active{
+	color: #000;
+}
+#goods{
+	width: 100%;
+	float: left;
+	padding: 0 0.15rem;
+}
+.good{
+	width: 4.92rem;
+	height: 8.4rem;
+	float: left;
+	margin: 0.15rem
+}
+.good_img{
+	width: 4.92rem;
+	height: 6.57rem;
+}
+.good_word{
+	width: 4.92rem;
+	height: 1.5rem;
+	margin-top: 0.1rem;
+}
+.good_word li{
+	color: #000;
+	font-size: 0.3rem;
+}
+#totop{
+	width: 1.04rem;
+	height: 1.04rem;
+	background: #fff;
+	border: 0.06rem solid #ccc;
+	border-radius: 50%;
+	float: left;
+	margin-top: 15rem;
+	margin-left: 85%;
+	margin-bottom: 0.5rem;
+	position: fixed;
+	padding: 0.25rem;
+}
+#totop img{
+	width: 0.52rem;
+	height: 0.52rem;
+}

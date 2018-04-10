@@ -1,0 +1,199 @@
+body{
+	font-size: 12px;
+	background-color: #fff;
+}
+
+#top{
+	width: 100%;
+	height: 1.9rem;
+	background-color: #181818;
+	text-align: center;
+	padding-top: 1.1rem;
+}
+
+.top_text{
+	color: #fff;
+	font-size: 0.5rem;
+}
+/* #prompt{
+	width: 100%;
+	height: 1rem;
+	text-align: center;
+	color: #9F9F9F;
+	font-size: 0.36rem;
+	padding-top: 0.32rem;
+} */
+#buy{
+	float: left;
+	width: 100%;
+	height: auto;
+	/* background-color: yellow; */
+}
+.buy1{
+	width: 100%;
+	height: 4.13rem;
+	
+}
+.buy1 img{
+	width: 3.03rem;
+	height: 2.55rem;
+	margin-top: 1.55rem;
+	margin-left: 3.88rem;
+	/* margin: 1.55rem 3.88rem 0; */
+}
+.buy1 h1{
+	float: left;
+	width: 100%;
+	height: 1rem;
+	margin-top: 0.43rem;
+	color: #000;
+	font-size: 0.35rem;
+	text-align: center;
+}
+.buy2{
+	float: left;
+	width: 3.94rem;
+	height: 1rem;
+	background-color: #000;
+	color: #fff;
+	text-align: center;
+	border-radius: 0.15rem;
+	margin-left: 3.43rem;
+}
+/* .buy_top{
+	float: left;
+	width: 100%;
+	height: 1rem;
+	background-color: #F3F3F3;
+	padding-left: 0.3rem;
+	padding-top: 0.23rem;
+	font-size: 0.34rem;
+	color: #000;
+}
+.buy_comd{
+	float: left;
+	width: 100%;
+	height: 3.87rem;
+
+	padding-top: 0.26rem;
+	padding-left: 0.3rem;
+	border-bottom: 0.01rem solid #D7D7D7;
+	padding-right: 0.3rem;
+
+}
+.buy_comd_rad{
+	float: left;
+	width: 0.96rem;
+	height: 2.03rem;
+	padding: 0.84rem 0;
+}
+.buy_comd img{
+	float: left;
+	width: 1.53rem;
+	height: 2.02rem;
+}
+.buy_comd_text{
+	float: left;
+	width: 7.7rem;
+	height: 2.02rem;
+	padding-left: 0.25rem;
+}
+.buy_comd_text h1{
+	font-size: 0.25rem;
+	color: #535353；
+}
+
+.buy_comd_text h2{
+	font-size: 0.3rem;
+	color: #000;
+	margin-top: 0.25rem;
+}
+.buy_comd_text h3{
+	margin-top: 0.42rem;
+	font-size: 0.32rem;
+	color: #9B9B9B;
+}
+.buy_comd_text i{
+	float: right;
+}
+.buy_comd_revise{
+	float: right;
+	width: 2.04rem;
+	height: 1.62em;
+	border: 0.03rem solid #000;
+	font-size: 0.3rem;
+	margin-top: 0.35rem;
+	color: #000;
+	text-align: center;
+	margin-right: 0.2rem;
+} */
+
+#total{
+	width: 100%;
+	height: 1.26rem;
+	border-top: 0.01rem solid #9E9E9E;
+	position: fixed;
+	background-color: #fff;
+	bottom: 1.27rem;
+
+}
+.total_rad{
+	float: left;
+	width: 1.8rem;
+	height: 1rem;
+	padding-left: 0.3rem;
+	padding-top: 0.4rem;
+	font-size: 0.34rem;
+	color: #000;	
+}
+.total_price{
+	float: left;
+	width: 4rem;
+	height: 100%;
+	padding-top: 0.2rem;
+}
+.total_price h1{
+	font-size: 0.36rem;
+}
+.total_price h2{
+	color: #9C9C9C;
+	font-size: 0.3rem;
+}
+.total_bt{
+	float: right;
+	width: 2.76rem;
+	height: 100%;
+	background-color: #9E9E9E;
+	color: #5A5A5A;
+	font-size: 0.45rem;
+	text-align: center;
+	padding-top: 0.32rem;
+}
+
+#bottom{
+	width: 100%;
+	height: 1.27rem;
+	border-top: 0.02rem solid #D8D8D8;
+	position: fixed;
+	background-color: #fff;
+	bottom: 0;
+}
+.bottom1{
+	float: left;
+	width: 20%;
+	height: 1.27rem;
+	padding-top: 0.2rem;
+	padding-left: 0.76rem;
+}
+.bottom1 img{
+	width: 0.47rem;
+	height: 0.47rem;
+	margin-left: 0.1rem;
+}
+
+.bottom1 i{
+	float: left;
+	font-size: 0.16rem;
+	margin: 0.05rem auto;
+	color: #585858;
+}
